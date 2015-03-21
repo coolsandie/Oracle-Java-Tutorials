@@ -1,0 +1,4 @@
+Changelog - 21/03/2015
+
+- Initial Repo Setup
+- Adding source files from Getting Started till Learning Java Language > Language Basics > Operators
