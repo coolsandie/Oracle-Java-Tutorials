@@ -1,3 +1,8 @@
+Changelog - 22/03/2015
+
+- Added explanatory comments (from java-forums.org) in PrePostDemo.java in 'Operators' section
+- Added codes from "Equality, Relational, and Conditional Operators & Bitwise and Bit Shift Operators" making the Operators module complete
+
 Changelog - 21/03/2015
 
 - Initial Repo Setup
