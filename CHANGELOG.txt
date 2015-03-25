@@ -1,3 +1,7 @@
+Changelog - 25/03/2015
+
+- Expression, Statements and Blocks module
+
 Changelog - 22/03/2015
 
 - Added explanatory comments (from java-forums.org) in PrePostDemo.java in 'Operators' section
