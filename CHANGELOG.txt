@@ -1,3 +1,7 @@
+Changelog - 29/03/2015
+
+- Codes from Branching Statements (break, continue, return)
+
 Changelog - 28/03/2015
 
 - Added Codes from Control Flow Statements module (Till For loop)
