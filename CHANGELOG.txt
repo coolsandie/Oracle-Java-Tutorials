@@ -1,3 +1,7 @@
+Changelog - 04/04/2015
+
+- Codes from Classes and Objects (Till 'Creating Objects')
+
 Changelog - 29/03/2015
 
 - Codes from Branching Statements (break, continue, return)
